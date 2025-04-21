@@ -129,7 +129,7 @@ La console affiche les messages issus de `neko = ("...")`.
 ---
 
 ## Éditeur et outils :
- [https://glowing-centaur-ae3ab9.netlify.app/]
+ [https://nekoscript.created.app/]
 
 ## agent nekoScript :
 [https://app.relevanceai.com/agents/d7b62b/67ef8c14954b-41ea-bdea-ca720964a31c/e4b2f2fe-6723-407f-9b5d-ebdfccf96a70]
